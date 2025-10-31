@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 💪 Natty or Not: A Jornada Estética com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o universo do fisiculturismo e a tendência "Natty or Not" utilizando IAs generativas para criar um conteúdo educativo e realista. A proposta é simular um vídeo explicativo com avatar virtual, abordando como identificar se um atleta é natural ou utiliza recursos químicos para melhorar o desempenho físico.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT / Copilot** – Geração de roteiro e estrutura narrativa
+- **D-ID / Synthesia** – Criação de avatar virtual com fala
+- **ElevenLabs / Murf.ai** – Voz realista gerada por IA
+- **Canva / Leonardo.Ai** – Design visual e imagens de apoio
+- **GitHub** – Versionamento e publicação do projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Defini o tema central: “Como saber se um atleta é natty ou não?”
+2. Utilizei IA para gerar um roteiro completo em estilo de vídeo explicativo.
+3. Criei um avatar virtual com fala sincronizada usando ferramentas de vídeo com IA.
+4. Editei o conteúdo visual e sonoro para parecer o mais natural possível.
+5. Publiquei o projeto no GitHub e compartilhei nas redes sociais.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Roteiro completo para vídeo educativo sobre o tema “Natty or Not”
+- Simulação de conteúdo audiovisual realista com avatar virtual
+- Engajamento com a comunidade DIO através da hashtag #LabDIONattyOrNot
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Criar algo que pareça “natty” com IA foi um exercício criativo e desafiador. A linha entre o natural e o artificial está cada vez mais tênue, e este projeto mostra como as IAs podem simular realismo com precisão impressionante.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
